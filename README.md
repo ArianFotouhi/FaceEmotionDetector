@@ -20,11 +20,14 @@ The training is based on colorless images of FER2013 dataset available on the li
 
 
 The application provides simple detection like the below result:
+
+
 ![Result 1](./readme_source/1.jpg)
 
 
 
 
 As well as more complicated ones where there might exist multiple faces in one frame:
+
 
 ![Result 2](./readme_source/2.jpg)
